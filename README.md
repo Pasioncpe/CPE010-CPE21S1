@@ -17,9 +17,7 @@ A portfolio repository for all **Hands-on Activities** completed in **CPE010** (
 - [About](#about)
 - [Repository Structure](#repository-structure)
 - [Topics Covered](#topics-covered)
-- [Getting Started](#getting-started)
-- [Using the Activities](#using-the-activities)
-- [Academic Integrity Note](#academic-integrity-note)
+- [Prerequisites](#prerequisites)
 - [Author](#author)
 
 ---
