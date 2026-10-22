@@ -1,4 +1,4 @@
-# CPE010-CPE21S1
+# CPE010-CPE21S1-PasionAlTwainD-Portfolio
 
 A portfolio repository for all **Hands-on Activities** completed in **CPE010** (Section **CPE21S1**). It documents a semester-long progression from basic C++ programming through core data structures, classic algorithms, and algorithm analysis.
 
