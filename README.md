@@ -6,8 +6,8 @@ A portfolio repository for all **Hands-on Activities** completed in **CPE010** (
 |---|---|
 | **Course** | CPE010 |
 | **Section** | CPE21S1 |
-| **Student** | _Your Name Here_ |
-| **Instructor** | _Instructor Name Here_ |
+| **Student** | _Al Twain D. Pasion_ |
+| **Instructor** | _Engr. Jimlord Quejado_ |
 | **Primary Language** | C++ |
 
 ---
@@ -108,12 +108,6 @@ Some activities (for example, 13.1 on multithreading) may need extra compiler fl
 ```bash
 g++ -std=c++17 -pthread -o activity main.cpp
 ```
-
----
-
-## Academic Integrity Note
-
-This repository is a record of my own coursework and is shared for portfolio and reference purposes. If you are currently taking this course, please use it only as a study aid and complete your own activities in accordance with your school's academic integrity policies.
 
 ---
 
