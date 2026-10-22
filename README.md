@@ -1,5 +1,7 @@
 # CPE010-CPE21S1
 
+<img width="800" height="635" alt="image" src="https://github.com/user-attachments/assets/b9102eed-f732-4a07-910c-22fe54fbbb53" />
+
 A portfolio repository for all **Hands-on Activities** completed in **CPE010** (Section **CPE21S1**). It documents a semester-long progression from basic C++ programming through core data structures, classic algorithms, and algorithm analysis.
 
 | | |
