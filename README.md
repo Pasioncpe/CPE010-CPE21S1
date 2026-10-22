@@ -74,44 +74,13 @@ CPE010-CPE21S1/
 
 ---
 
-## Getting Started
-
 ### Prerequisites
 
 - A C++ compiler such as **g++** (GCC), **clang++**, or **MSVC**
 - Git
 - Optionally, an IDE or editor such as Visual Studio Code, Code::Blocks, CLion, or an online compiler like OnlineGDB
 
-### Clone the repository
-
-```bash
-git clone https://github.com/Pasioncpe/CPE010-CPE21S1.git
-cd CPE010-CPE21S1
-```
-
----
-
-## Using the Activities
-
-Open the folder of the activity you want to explore, then compile and run its source file. For example, with `g++`:
-
-```bash
-cd "Hands-on Activity 3.1 Linked Lists"
-g++ -std=c++17 -Wall -o activity main.cpp
-./activity          # On Windows: activity.exe
-```
-
-> Replace `main.cpp` with the actual source file name inside each folder. Folder names contain spaces, so wrap paths in quotes.
-
-Some activities (for example, 13.1 on multithreading) may need extra compiler flags such as `-pthread`:
-
-```bash
-g++ -std=c++17 -pthread -o activity main.cpp
-```
-
----
-
 ## Author
 
-**_Your Name Here_**
+**Al Twain D. Pasion**
 GitHub: [@Pasioncpe](https://github.com/Pasioncpe)
